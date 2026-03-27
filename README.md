@@ -94,5 +94,11 @@ If preventable readmissions were eliminated, estimated resource savings include 
 
 7. **Address racial disparities in readmission outcomes** — African American patients have the highest mean readmission score. Culturally tailored care pathways and access barrier investigations are warranted.
 
----
 
+--
+
+## Author
+
+**Mohd Faiz**
+- **Role:** Business and Data Analyst
+- **GitHub:** [hub.com/faizikbal01-lab](https://github.com/your-username)
